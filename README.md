@@ -1,6 +1,6 @@
-### Hi 👋 
+### Hi there 👋 
 
-#### My name is Ilya, I'm Java Developer
+#### My name is Ilya and I'm Java Developer
 
 <!--
 **izimin/izimin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
